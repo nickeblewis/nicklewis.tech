@@ -16,3 +16,5 @@ I am based in Farnborough, Hampshire, UK and have my own office that I rent at [
 * [@nicklewis](http://twitter.com/nicklewis)
 
 *This site has been written in MarkDown, statically generated using [phenomic.io](), pushed to [GitHub]() and deployed via continuous integration to [netlify.com]()*
+
+Just testing that github pushes work!
