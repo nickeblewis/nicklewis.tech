@@ -2,6 +2,7 @@ import React, { Component, PropTypes } from "react"
 import Helmet from "react-helmet"
 import invariant from "invariant"
 import { joinUri } from "phenomic"
+import DisqusThread from "react-disqus-thread"
 
 class Page extends Component {
   render() {
@@ -62,6 +63,12 @@ class Page extends Component {
         }
         { props.children }
         { footer }
+        <DisqusThread
+          shortname="nicklewisphotography"
+          identifier={ props.__url }
+          url={ props.__url }
+        />
+
       </div>
     )
   }
