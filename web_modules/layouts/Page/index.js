@@ -65,8 +65,8 @@ class Page extends Component {
         { footer }
         <DisqusThread
           shortname="head4code"
-          identifier="head4code-1"
-          title="test"
+          identifier={ head.title }
+          title={ head.title }
         />
 
       </div>
