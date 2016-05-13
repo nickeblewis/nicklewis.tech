@@ -1,6 +1,6 @@
 ---
 title: Nick Lewis - Freelance Web Developer
-layout: Page
+layout: Homepage
 ---
 
 > Hi there.

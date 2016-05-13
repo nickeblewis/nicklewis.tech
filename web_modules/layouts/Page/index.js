@@ -64,9 +64,9 @@ class Page extends Component {
         { props.children }
         { footer }
         <DisqusThread
-          shortname="nicklewisphotography"
-          identifier={ props.__url }
-          url={ props.__url }
+          shortname="head4code"
+          identifier="head4code-1"
+          title="test"
         />
 
       </div>
